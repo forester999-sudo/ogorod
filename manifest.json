@@ -1,0 +1,16 @@
+{
+  "name": "Мой огород",
+  "short_name": "Мой огород",
+  "description": "План участка: грядки, теплицы, посадки и подкормки по годам",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef0e6",
+  "theme_color": "#3f6b2a",
+  "icons": [
+    {"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
